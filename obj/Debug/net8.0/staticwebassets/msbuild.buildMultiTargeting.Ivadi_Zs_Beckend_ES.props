@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ivadi_Zs_Beckend_ES.props" />
+</Project>

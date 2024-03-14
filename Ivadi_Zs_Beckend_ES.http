@@ -1,0 +1,6 @@
+@Ivadi_Zs_Beckend_ES_HostAddress = http://localhost:5128
+
+GET {{Ivadi_Zs_Beckend_ES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
